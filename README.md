@@ -27,9 +27,8 @@ For macOS you can choose to either write the github PAT directly in the variable
 - #### On Windows:
   - grep is not currently implemented for windows so instead of creating a separate token file just add the token as a strint in the AUTH_TOKEN variable.
 
-### Run the script
-- In the terminal cd in to the directory you want to add to github
--To run script:
+### Run the script  
+-To run script:  
   - In terminal cd to the directory you want to add to github
   - run: sh /path/to/script
     - ex. sh ~/scripts/add-to-github.sh
